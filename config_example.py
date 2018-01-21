@@ -9,3 +9,5 @@ weather_url = 'http://api.wunderground.com/api/%s/conditions/q/CA/San_Francisco.
 aws_access_key_id='AWS IAM ID'
 aws_secret_access_key='AWS IAM SECRET KEY'
 region_name='AWS REGION'
+
+sleep_time = 15*60
